@@ -1,0 +1,14 @@
+C:\Users\gapon\OneDrive\Рабочий стол\C#\EndAtistashon by the main block\bin\Debug\net7.0\EndAtistashon by the main block.exe
+C:\Users\gapon\OneDrive\Рабочий стол\C#\EndAtistashon by the main block\bin\Debug\net7.0\EndAtistashon by the main block.deps.json
+C:\Users\gapon\OneDrive\Рабочий стол\C#\EndAtistashon by the main block\bin\Debug\net7.0\EndAtistashon by the main block.runtimeconfig.json
+C:\Users\gapon\OneDrive\Рабочий стол\C#\EndAtistashon by the main block\bin\Debug\net7.0\EndAtistashon by the main block.dll
+C:\Users\gapon\OneDrive\Рабочий стол\C#\EndAtistashon by the main block\bin\Debug\net7.0\EndAtistashon by the main block.pdb
+C:\Users\gapon\OneDrive\Рабочий стол\C#\EndAtistashon by the main block\obj\Debug\net7.0\EndAtistashon by the main block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gapon\OneDrive\Рабочий стол\C#\EndAtistashon by the main block\obj\Debug\net7.0\EndAtistashon by the main block.AssemblyInfoInputs.cache
+C:\Users\gapon\OneDrive\Рабочий стол\C#\EndAtistashon by the main block\obj\Debug\net7.0\EndAtistashon by the main block.AssemblyInfo.cs
+C:\Users\gapon\OneDrive\Рабочий стол\C#\EndAtistashon by the main block\obj\Debug\net7.0\EndAtistashon by the main block.csproj.CoreCompileInputs.cache
+C:\Users\gapon\OneDrive\Рабочий стол\C#\EndAtistashon by the main block\obj\Debug\net7.0\EndAtistashon by the main block.dll
+C:\Users\gapon\OneDrive\Рабочий стол\C#\EndAtistashon by the main block\obj\Debug\net7.0\refint\EndAtistashon by the main block.dll
+C:\Users\gapon\OneDrive\Рабочий стол\C#\EndAtistashon by the main block\obj\Debug\net7.0\EndAtistashon by the main block.pdb
+C:\Users\gapon\OneDrive\Рабочий стол\C#\EndAtistashon by the main block\obj\Debug\net7.0\EndAtistashon by the main block.genruntimeconfig.cache
+C:\Users\gapon\OneDrive\Рабочий стол\C#\EndAtistashon by the main block\obj\Debug\net7.0\ref\EndAtistashon by the main block.dll
